@@ -3,8 +3,7 @@
 # 𝖏𝖆𝖎𝖑
 
 ```txt
-building things for the internet
-```
+i like making things```
 
 full stack developer • designer • builder
 
