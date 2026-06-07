@@ -2,8 +2,7 @@
 
 # 𝖏𝖆𝖎𝖑
 
-```txt
-i like making things```
+```txt i like making things```
 
 full stack developer • designer • builder
 
